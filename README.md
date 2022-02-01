@@ -1,2 +1,2 @@
 # data-analysis-templates
-Contains a collection of standard data analysis scripts using py-myrmidon.
+This repository contains a collection of standard data analysis scripts using py-myrmidon and is intended as a starting point for users without a profound knowledge of python and as a collection of best practice examples. The scripts show sample usages of the ```py-myrmidon``` library and some additional tools. The ```py-myrmidon``` documentation is located [here](https://formicidae-tracker.github.io/myrmidon). All scripts require preprocessed tracking data, i.e. the output of ```Fort Studio```.
