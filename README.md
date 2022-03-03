@@ -30,7 +30,7 @@ follow, once you cloned this repository.
 The use of [mamba](https://github.com/mamba-org/mamba) is strongly recommended.
 
 ```bash
-mamba env create -f conda-environments/myrmidon-analysis
+mamba env create -f conda-environments/myrmidon-analysis.yml
 ```
 
 2. Download the example dataset and metadata
